@@ -1,0 +1,3 @@
+config get val = 0xaa
+zw 38  config set vale1= 0xab  val2= 0xaa(zw38)  val2 = 0xab(zw47)
+zw 47  config set vale1= 0xab  val2= 0xaa(zw38)  val2 = 0xab(zw47)
